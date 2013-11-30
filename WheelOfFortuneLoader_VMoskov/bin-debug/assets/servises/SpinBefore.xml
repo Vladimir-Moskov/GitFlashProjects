@@ -1,0 +1,14 @@
+<spins>
+	<spin coins="200" probability="0.01"/>
+	<spin coins="20" probability="0.02"/>
+	<spin coins="2000" probability="0.03"/>
+	<spin coins="10" probability="0.04"/>
+	<spin coins="200" probability="0.05"/>
+	<spin coins="50" probability="0.06"/>
+	<spin coins="10" probability="0.07"/>
+	<spin coins="80" probability="0.08"/>
+	<spin coins="90" probability="0.09"/>
+	<spin coins="609" probability="0.01"/>
+	<spin coins="906" probability="0.011"/>
+	<spin coins="505" probability="0.012"/>
+</spins>

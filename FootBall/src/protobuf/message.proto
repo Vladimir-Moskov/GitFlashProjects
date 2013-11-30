@@ -1,0 +1,37 @@
+message Player{
+	
+	required int32 id = 1;
+	required int32 X = 2;
+	required int32 Y = 3;
+
+}
+
+message Ball{
+	
+    required int32 X = 1;
+	required int32 Y = 2;
+
+}
+
+message Field{
+	
+	repeated Player players = 1;
+	required Ball ball = 2;
+
+}
+
+message Login{
+	optional int32 userId = 1;
+
+}
+
+message Logout{
+	required int32 userId = 1;
+}
+
+message UserAction{
+	required int32 userId = 1;
+	required int32 X = 2;
+	required int32 Y = 3;
+	
+}

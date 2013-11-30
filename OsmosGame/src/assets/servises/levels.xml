@@ -1,0 +1,28 @@
+<levels>
+
+	<level id="0" name="level Zero!">
+		<balls numder="20">
+		</balls>
+	</level>
+	
+	<level id="1" name="level One!">
+		<balls numder="10">
+		</balls>
+		<rectangels>
+			<rectangel x="200" y="200" width="50" height="75"/>
+			<rectangel x="500" y="200" width="75" height="50"/>
+		</rectangels>
+	</level>
+	
+	<level id="2" name="level One!">
+		<balls numder="10">
+		</balls>
+		<rectangels>
+			<rectangel x="200" y="200" width="100" height="100"/>
+			<rectangel x="600" y="200" width="100" height="100"/>
+			<rectangel x="200" y="400" width="100" height="100"/>
+			<rectangel x="600" y="400" width="100" height="100"/>
+		</rectangels>
+	</level>
+	
+</levels>

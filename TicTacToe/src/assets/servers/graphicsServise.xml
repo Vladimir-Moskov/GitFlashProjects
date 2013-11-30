@@ -1,0 +1,5 @@
+<graphics>
+	<field>./assets/images/FieldTicTac.png</field>
+	<cross>./assets/images/Cross.png</cross>
+	<zero>./assets/images/Zero.png</zero>
+</graphics>
